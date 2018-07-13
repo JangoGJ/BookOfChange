@@ -7,5 +7,5 @@ So it only apply to learn Chinese ancient philosophy.<br>
 ***Thanks to Professor Fu Peirong.***
 
 I have revised his book <Fu Perong's translation of I-Ching> without explaination.<br>
-There were point of view maybe unsuitable for this program. That's all my fault.<br>
-If you find a mistake, please sent me an email.<br>
+If there is any mistake, it's all my responsibility.<br>
+If you think something you have different idea, please send me an email.<br>
