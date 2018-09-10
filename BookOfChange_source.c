@@ -246,10 +246,10 @@ void title_logo(void)
 	printf("￥                 #     ##         ####        #   #   #          ##                       ￥\n");
 	printf("￥                      ##           ##         #   #   #          ##                       ￥\n");
 	printf("￥                     #                        #   #   # ####################              ￥\n");
-	printf("￥                                (Version 0.0.1)                                           ￥\n");
+	printf("￥                                (Version 3.2.3)                                           ￥\n");
 	printf("￥                               Designed by Jango                                          ￥\n");
 	printf("￥                          Email：jango_idp@outlook.com                                    ￥\n");
-	printf("￥                          Last modified: July 6th,2018                                    ￥\n");
+	printf("￥                           Last modified: Jan 6st,2018                                    ￥\n");
 	printf("￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥\n");
 	printf("\n");
 }
@@ -5555,7 +5555,7 @@ void yijieyijing_fupeirong(int a, int b)
 			printf("“利见大人”是因为九五与六二皆居中守正。“大牲”是指以牛为牺牲。\n");
 			printf("萃卦下坤上兑，兑为口，有享用之意，坤为牛，合之则为“用大牲”。\n");
 			printf("③萃卦由小过卦（第六十二卦）所变。萃卦的覆卦为下一卦升卦。\n");
-			printf("即小过卦的九三与六五换位，成为萃卦（H）的九五，如此则可合乎“利见大人”与“利有攸往”两项条件。\n");
+			printf("即小过卦的九三与六五换位，成为萃卦的九五，如此则可合乎“利见大人”与“利有攸往”两项条件。\n");
 			printf("〈45-2〉\n");
 			printf("《彖》曰：萃，聚也。顺以说，刚中而应，故聚也。王假有庙，致孝享也。\n");
 			printf("利见大人亨，聚以正也。用大牲吉，利有攸往，顺天命也。观其所聚，而天地万物之情可见矣。\n");
